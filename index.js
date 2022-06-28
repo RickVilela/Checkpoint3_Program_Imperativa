@@ -1,4 +1,4 @@
-// CheckPoint 3 - Digital House - Aluno: Rafael Longobardi Mineiro Varela Professor: Marcos Santana
+// CheckPoint 3 - Digital House - Aluno: Henrique Vilela da Fonseca Professor: Marcos Santana
 let Curso = require('./curso');
 Curso.adicionarAluno('Rafael Longobardi Mineiro Varela', 1, [10, 9, 9]);
 

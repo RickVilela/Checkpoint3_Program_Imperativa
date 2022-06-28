@@ -1,4 +1,4 @@
-// CheckPoint 3 - Digital House - Aluno: Rafael Longobardi Mineiro Varela Professor: Marcos Santana
+// CheckPoint 3 - Digital House - Aluno: Henrique Vilela da Fonseca Professor: Marcos Santana
 let Aluno = require('./alunos');
 let Curso = {
     nomeCurso: 'JavaScript',
